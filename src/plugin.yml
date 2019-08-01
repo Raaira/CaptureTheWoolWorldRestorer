@@ -1,0 +1,7 @@
+name: CaptureTheWoolWorldRestorer
+main: com.gmail.lynx7478.ctw.worldrestorer.WorldRestorer
+version: 1.0
+authors: [Mr_Little_Kitty, Yuumiheim]
+description: A plugin for restoring capture the wool worlds.
+load: STARTUP
+loadbefore: [CaptureTheWool]
